@@ -1,0 +1,30 @@
+Preventive Maintenance of P-101
+Detailed P-101 Prototype SOP
+SYNTHETIC PROTOTYPE DOCUMENT - Replace all demo limits, procedures and approval authorities with organization-approved information before operational use.
+Document No.SOP-P101-03Revision00EquipmentP-101 Centrifugal PumpServiceCooling-water circulationClassificationPrototype / SyntheticStatusFor AI Workbench Demo
+1. Purpose and Scope
+Purpose: Provide a prototype maintenance schedule and work sequence.
+Scope: Routine preventive maintenance for P-101.
+2. Responsibilities
+Operator/inspector records evidence; maintenance/engineering personnel review technical findings; authorized personnel approve actions. The AI workbench may extract, retrieve, calculate and draft but cannot self-approve.
+3. Procedure
+1. Daily/shift: review leakage, noise, vibration trend, temperature trend and operating indications.
+2. Weekly: inspect accessible fasteners, guards, housekeeping and obvious piping/support issues.
+3. Monthly: review vibration/temperature trends and compare with prior records.
+4. Quarterly/demo interval: verify alignment condition, lubrication condition and coupling condition as permitted by the actual maintenance program.
+5. Planned shutdown: inspect bearings, mechanical seal, coupling and rotating condition as required by approved manual.
+6. After maintenance, perform controlled restart and record baseline vibration/temperature.
+7. Update maintenance history and close actions only after human verification.
+4. Records
+* Maintenance date
+* Work order
+* Components inspected
+* Parts changed
+* As-found/as-left condition
+* Post-maintenance baseline
+5. AI Workbench Controls
+* Use local models and local knowledge sources only in sovereign mode.
+* Cite source document/revision/page or section when available.
+* State missing evidence explicitly.
+* Log selected model, agent steps, generated files and network status.
+* Human review is mandatory for operational, maintenance and safety decisions.

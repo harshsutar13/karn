@@ -1,0 +1,38 @@
+Crude Oil Distillation Unit — Maintenance Reference
+
+Section 1: Pump Maintenance
+
+The centrifugal pump P-101A is a critical asset in the crude pre-heat circuit.
+Bearing temperature alarm setpoint is 85 degrees Celsius. High vibration alert threshold is 7.1 mm/s RMS.
+When abnormal vibration is detected, the unit should be inspected within 24 hours.
+Oil analysis should be performed quarterly. Vibration signature analysis uses ISO 10816-3 as the reference standard.
+
+Section 2: Compressor Operations
+
+The reciprocating compressor K-201 handles overhead gas from the atmospheric distillation tower.
+Discharge pressure normal operating range is 3.5 to 4.2 bar gauge.
+Any deviation beyond this range triggers an automatic alarm in the DCS.
+Compressor valve inspection interval is every 8,000 operating hours.
+
+Section 3: Distillation Tower
+
+The Atmospheric Distillation Tower (ADT) operates at near-atmospheric pressure.
+Overhead temperature is controlled between 110 and 130 degrees Celsius.
+The kerosene sidecut draw temperature is maintained at 190 to 210 degrees Celsius.
+Tray differential pressure is monitored continuously. A delta-P rise above 0.15 bar across any tray section
+indicates potential flooding or fouling and requires immediate operator attention.
+
+Section 4: Safety Systems
+
+The Safety Instrumented System (SIS) for the CDU includes the following Safety Instrumented Functions:
+SIF-CDU-01: High furnace tube skin temperature trips the fuel gas supply.
+SIF-CDU-02: High tower overhead pressure initiates pressure relief and controlled shutdown.
+All SIS logic is implemented in a dedicated SIL-2 certified safety PLC.
+Functional safety audits are conducted every five years.
+
+Section 5: Predictive Maintenance Programme
+
+The refinery uses a predictive maintenance programme covering vibration analysis, oil analysis,
+infrared thermography, and ultrasonic thickness testing.
+Key performance indicator: Mean Time Between Failures (MTBF) for rotating equipment should exceed 18 months.
+All maintenance activities require a valid Permit-to-Work (PTW) issued by the Area Operations Supervisor.

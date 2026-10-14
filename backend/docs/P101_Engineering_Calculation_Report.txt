@@ -1,0 +1,32 @@
+ENGINEERING CALCULATION REPORT - P-101
+Hydraulic power and pump input power - sandbox verification reference
+SYNTHETIC PROTOTYPE DOCUMENT - Replace all demo limits, procedures and approval authorities with organization-approved information before operational use.
+Document No.CALC-P101-01Revision00EquipmentP-101 Centrifugal PumpServiceCooling-water circulationClassificationPrototype / SyntheticStatusFor AI Workbench Demo
+1. Objective
+Calculate hydraulic power transferred to the cooling water and estimated pump input power using the synthetic operating data.
+2. Input Data
+ParameterSymbolValueFlow rateQ90 m³/hHeadH32 mDensity?994 kg/m³Gravityg9.81 m/s²Pump efficiency?0.753. Step-by-Step Calculation
+Step 1 - Convert flow rate:
+Q = 90 / 3600 = 0.0250 m³/s
+Step 2 - Hydraulic power:
+P? = ? g Q H
+P? = 994 × 9.81 × 0.0250 × 32 = 7.80 kW
+Step 3 - Estimated pump input power:
+Pinput = P? / ?
+Pinput = 7.80 / 0.75 = 10.40 kW
+4. Verification Logic
+* Expected sandbox result: hydraulic power ˜ 7.80 kW.
+* Expected sandbox result: pump input power ˜ 10.40 kW.
+* Check units and numerical tolerance.
+* Compare estimated input power with the synthetic 15 kW motor rating only as a plausibility check, not as proof of motor loading.
+5. Prototype Python Test
+rho=994
+g=9.81
+Q=90/3600
+H=32
+eta=0.75
+hydraulic_kw=rho*g*Q*H/1000
+input_kw=hydraulic_kw/eta
+assert abs(hydraulic_kw-7.80) < 0.05
+assert abs(input_kw-10.40) < 0.05
+print(hydraulic_kw, input_kw)

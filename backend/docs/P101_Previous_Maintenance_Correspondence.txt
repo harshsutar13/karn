@@ -1,0 +1,11 @@
+PREVIOUS MAINTENANCE CORRESPONDENCE - P-101
+Synthetic internal note for local RAG retrieval
+SYNTHETIC PROTOTYPE DOCUMENT - Replace all demo limits, procedures and approval authorities with organization-approved information before operational use.
+Document No.CORR-P101-01Revision00EquipmentP-101 Centrifugal PumpServiceCooling-water circulationClassificationPrototype / SyntheticStatusFor AI Workbench Demo
+Internal Maintenance Note
+Subject: Follow-up of coupling maintenance - Pump P-101
+Following the previous coupling-related maintenance activity, the maintenance team observed intermittent vibration during post-maintenance monitoring. No immediate defect was confirmed. It was recommended that coupling alignment be verified during the next planned maintenance opportunity and that future inspections record vibration and bearing temperature together for trend comparison.
+Knowledge-Base Interpretation
+* This is historical context, not a current operating limit.
+* It supports checking alignment but does not prove misalignment.
+* Current approved SOPs take precedence over historical correspondence.

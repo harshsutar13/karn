@@ -1,0 +1,128 @@
+﻿# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ============================================
+# Virtual environments
+# ============================================
+.venv/
+venv/
+ENV/
+env/
+
+# ============================================
+# Environment variables / secrets
+# ============================================
+.env
+.env.local
+*.env
+
+# ============================================
+# Logs
+# ============================================
+logs/
+*.log
+
+# ============================================
+# Qdrant (binary + data - huge)
+# ============================================
+qdrant/qdrant.exe
+qdrant/qdrant.zip
+qdrant/storage/
+qdrant/snapshots/
+qdrant/*.log
+qdrant/.qdrant-initialized
+
+# ============================================
+# Generated outputs (keep folder, ignore contents)
+# ============================================
+backend/outputs/*
+!backend/outputs/.gitkeep
+
+# ============================================
+# User uploads
+# ============================================
+data/uploads/*
+!data/uploads/.gitkeep
+data/*.db
+
+# ============================================
+# Reference-only UI assets (kept outside the app source)
+# ============================================
+new elemts of ui/
+
+# ============================================
+# Document outputs (in case any leak into root)
+# ============================================
+*.docx
+*.xlsx
+*.pptx
+
+# ============================================
+# Test caches
+# ============================================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ============================================
+# IDE / editor
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============================================
+# OS
+# ============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================
+# Backups
+# ============================================
+*.backup
+*.bak
+*.bak_*
+
+# ============================================
+# Node (in case frontend tooling gets added)
+# ============================================
+node_modules/
+package-lock.json
+
+# ============================================
+# AI agent state (local only)
+# ============================================
+.agent_state/
+.claude/
+
+# ============================================
+# Scratch / temp workspace
+# ============================================
+scratch/
+workspace/

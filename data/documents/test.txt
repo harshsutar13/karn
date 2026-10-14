@@ -1,0 +1,5 @@
+Preventive maintenance is performed at scheduled intervals to reduce the probability of equipment failure.
+
+Predictive maintenance uses equipment condition data such as vibration, temperature, pressure, and lubrication measurements to determine when maintenance is actually required.
+
+In an oil refinery, predictive maintenance can be applied to pumps, compressors, turbines, heat exchangers, and other critical assets.

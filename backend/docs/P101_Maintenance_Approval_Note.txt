@@ -1,0 +1,33 @@
+MAINTENANCE APPROVAL NOTE - P-101
+AI-assisted draft - PENDING HUMAN REVIEW
+SYNTHETIC PROTOTYPE DOCUMENT - Replace all demo limits, procedures and approval authorities with organization-approved information before operational use.
+Document No.APP-P101-01Revision00EquipmentP-101 Centrifugal PumpServiceCooling-water circulationClassificationPrototype / SyntheticStatusFor AI Workbench Demo
+Subject
+Request for approval to inspect and undertake corrective maintenance assessment of Cooling-Water Pump P-101
+1. Background
+The current synthetic inspection of P-101 identified increased vibration and bearing temperature compared with the historical record, together with minor mechanical seal seepage and abnormal hum.
+2. Key Findings
+* Vibration: 8.2 mm/s RMS versus historical 4.1 mm/s RMS.
+* Bearing housing temperature: 78 °C versus historical 62 °C.
+* Minor mechanical seal seepage observed.
+* Historical correspondence previously recommended alignment verification.
+3. Technical Evaluation
+The synthetic operating point is 90 m³/h at 32 m head. Calculated hydraulic power is approximately 7.80 kW and estimated pump input power is approximately 10.40 kW at 75% efficiency. These calculations do not identify the cause of vibration; they demonstrate the workbench calculation-and-verification workflow.
+4. RCA Status
+Potential causes include coupling misalignment, bearing deterioration, lubrication condition, cavitation/hydraulic effects, imbalance and looseness. No root cause is yet confirmed. Alignment and bearing/lubrication checks are proposed as initial confirmation activities based on the available evidence.
+5. Approval Requested
+Approval is requested to proceed with a controlled maintenance assessment of P-101 in accordance with the organization's approved isolation, inspection and maintenance procedures, including repeat condition measurements, alignment verification and bearing/lubrication inspection. Cost, shutdown duration and parts requirement are intentionally left blank because they are not available in the prototype knowledge base.
+6. Source Documents
+* P101_Current_Inspection_Report
+* P101_Historical_Inspection_Report
+* SOP-P101-02 Inspection and Condition Monitoring
+* SOP-P101-04 Abnormal Condition, Troubleshooting and RCA
+* P101_Operating_and_Maintenance_Manual
+* P101_Previous_Maintenance_Correspondence
+* P101_Engineering_Calculation_Report
+7. Human Review
+Prepared: AI-assisted draft
+Reviewed by: ____________________
+Decision: Approve / Revise / Reject
+Date: ____________________
+Comments: ______________________________________________

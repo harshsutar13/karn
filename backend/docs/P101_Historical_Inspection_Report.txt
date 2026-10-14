@@ -1,0 +1,7 @@
+HISTORICAL INSPECTION REPORT - P-101
+Reference record for trend comparison
+SYNTHETIC PROTOTYPE DOCUMENT - Replace all demo limits, procedures and approval authorities with organization-approved information before operational use.
+Document No.IR-P101-HISTRevision00EquipmentP-101 Centrifugal PumpServiceCooling-water circulationClassificationPrototype / SyntheticStatusFor AI Workbench Demo
+1. Historical Condition
+ParameterRecorded ValueCommentFlow92 m³/hStableHead33 mStableVibration4.1 mm/s RMSBaseline prototype readingBearing temperature62 °CBaseline prototype readingSealNo visible leakageAcceptable visual conditionNoiseNormalNo abnormal observation2. Follow-up Note
+A previous coupling maintenance activity had prompted a recommendation to verify alignment during the next planned maintenance opportunity. No confirmed root cause was recorded at that time.

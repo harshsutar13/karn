@@ -1,0 +1,30 @@
+Abnormal Condition, Troubleshooting and RCA for P-101
+Detailed P-101 Prototype SOP
+SYNTHETIC PROTOTYPE DOCUMENT - Replace all demo limits, procedures and approval authorities with organization-approved information before operational use.
+Document No.SOP-P101-04Revision00EquipmentP-101 Centrifugal PumpServiceCooling-water circulationClassificationPrototype / SyntheticStatusFor AI Workbench Demo
+1. Purpose and Scope
+Purpose: Guide evidence-based troubleshooting without allowing the AI to treat hypotheses as confirmed causes.
+Scope: High vibration, elevated temperature, leakage, poor flow/head and abnormal noise.
+2. Responsibilities
+Operator/inspector records evidence; maintenance/engineering personnel review technical findings; authorized personnel approve actions. The AI workbench may extract, retrieve, calculate and draft but cannot self-approve.
+3. Procedure
+1. Register the abnormal symptom and preserve raw measurements.
+2. Retrieve current inspection report, historical trends, operating SOP, maintenance history and manual sections.
+3. Generate possible causes such as misalignment, bearing deterioration, lubrication issue, imbalance, cavitation, looseness or hydraulic operating condition.
+4. For each possible cause, list supporting evidence, contradictory/missing evidence and required confirmation test.
+5. Do not label a root cause 'confirmed' until the required human inspection/test evidence exists.
+6. Prioritize immediate actions based on organization-approved safety/maintenance rules.
+7. Generate an RCA draft and corrective-action list for human review.
+4. Records
+* Symptom
+* Potential cause
+* Evidence for
+* Evidence against/missing
+* Confirmation test
+* Status: suspected/confirmed/rejected
+5. AI Workbench Controls
+* Use local models and local knowledge sources only in sovereign mode.
+* Cite source document/revision/page or section when available.
+* State missing evidence explicitly.
+* Log selected model, agent steps, generated files and network status.
+* Human review is mandatory for operational, maintenance and safety decisions.

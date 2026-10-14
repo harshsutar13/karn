@@ -1,0 +1,35 @@
+Maintenance Approval, Execution and Closure for P-101
+Detailed P-101 Prototype SOP
+SYNTHETIC PROTOTYPE DOCUMENT — Replace all demo limits, procedures and approval authorities with organization-approved information before operational use.
+Document No.	SOP-P101-05	Revision	00
+Equipment	P-101 Centrifugal Pump	Service	Cooling-water circulation
+Classification	Prototype / Synthetic	Status	For AI Workbench Demo
+
+1. Purpose and Scope
+Purpose: Control AI-assisted drafting of maintenance approval and closure documentation.
+Scope: P-101 corrective maintenance arising from inspection/RCA.
+2. Responsibilities
+Operator/inspector records evidence; maintenance/engineering personnel review technical findings; authorized personnel approve actions. The AI workbench may extract, retrieve, calculate and draft but cannot self-approve.
+3. Procedure
+1.	Create a case ID and link the inspection/RCA evidence.
+2.	Retrieve the applicable approval workflow and previous P-101 correspondence.
+3.	Draft an approval note stating findings, evidence, calculations, proposed scope and unresolved uncertainties.
+4.	Do not invent cost, vendor, shutdown duration or approval authority when not present in the local knowledge base.
+5.	Keep document status as Pending Human Review until an authorized reviewer acts.
+6.	After approved maintenance, record work performed and post-maintenance checks.
+7.	Close the case only after required evidence and human sign-off are present.
+8.	Retain all versions, model-routing information and audit/network logs locally.
+4. Records
+•	Case ID
+•	Approval note version
+•	Reviewer
+•	Decision
+•	Work order
+•	Completion evidence
+•	Closure status
+5. AI Workbench Controls
+•	Use local models and local knowledge sources only in sovereign mode.
+•	Cite source document/revision/page or section when available.
+•	State missing evidence explicitly.
+•	Log selected model, agent steps, generated files and network status.
+•	Human review is mandatory for operational, maintenance and safety decisions.

@@ -1,0 +1,20 @@
+ROOT CAUSE ANALYSIS REPORT - P-101
+AI-assisted draft based on synthetic inspection evidence
+SYNTHETIC PROTOTYPE DOCUMENT - Replace all demo limits, procedures and approval authorities with organization-approved information before operational use.
+Document No.RCA-P101-01Revision00EquipmentP-101 Centrifugal PumpServiceCooling-water circulationClassificationPrototype / SyntheticStatusFor AI Workbench Demo
+1. Problem Statement
+P-101 shows increased vibration (8.2 mm/s RMS versus historical 4.1 mm/s RMS), increased bearing housing temperature (78 °C versus 62 °C), minor seal seepage and abnormal hum.
+2. Evidence Review
+* Current inspection report: deterioration in vibration, temperature and seal condition.
+* Historical report: lower vibration/temperature and no visible leakage.
+* Previous correspondence: alignment verification had previously been recommended.
+* Visual record: no obvious guard/foundation damage in the synthetic inspection.
+3. Cause Evaluation
+Potential CauseSupporting EvidenceMissing/Contrary EvidenceConfirmation RequiredStatusCoupling misalignmentPrior alignment follow-up; vibration + temperature riseNo direct alignment measurementLaser/dial alignment checkSuspectedBearing deteriorationVibration + bearing temperature riseNo bearing inspection resultBearing condition inspection / vibration spectrumSuspectedLubrication issueTemperature rise can be consistentLubrication quantity/condition not recordedCheck lubricant condition/quantity per approved manualSuspectedCavitation / suction issueAbnormal noise possibleSuction conditions not fully characterized; flow near normalCheck suction pressure, NPSH basis and cavitation evidencePossibleRotor/impeller imbalanceHigh vibration possibleNo spectrum/inspection evidenceVibration analysis and rotating inspectionPossibleFoundation/loosenessCan cause vibrationNo obvious visual damageFastener/baseplate inspectionLower evidence4. RCA Conclusion
+No single root cause is confirmed from the available evidence. Misalignment and bearing/lubrication-related causes have stronger supporting context and should be tested first. The AI workbench must preserve this distinction between suspected and confirmed causes.
+5. Proposed Confirmation Plan
+1. Verify measurement validity and repeat vibration/temperature readings.
+2. Check alignment using the approved maintenance method.
+3. Inspect bearing/lubrication condition.
+4. Confirm suction conditions and investigate cavitation only if evidence supports it.
+5. Update RCA status after human inspection results.

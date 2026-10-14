@@ -1,0 +1,35 @@
+Operation of Cooling-Water Centrifugal Pump P-101
+Detailed P-101 Prototype SOP
+SYNTHETIC PROTOTYPE DOCUMENT - Replace all demo limits, procedures and approval authorities with organization-approved information before operational use.
+Document No.SOP-P101-01Revision00EquipmentP-101 Centrifugal PumpServiceCooling-water circulationClassificationPrototype / SyntheticStatusFor AI Workbench Demo
+1. Purpose and Scope
+Purpose: Define safe, repeatable startup, normal operation, monitoring and shutdown steps for the prototype pump.
+Scope: P-101 and its immediate suction/discharge interfaces in the synthetic cooling-water service.
+2. Responsibilities
+Operator/inspector records evidence; maintenance/engineering personnel review technical findings; authorized personnel approve actions. The AI workbench may extract, retrieve, calculate and draft but cannot self-approve.
+3. Procedure
+1. Verify work area is safe and maintenance clearance is released.
+2. Confirm suction source is available and suction valve is open.
+3. Confirm pump casing/suction line are primed and vented as applicable.
+4. Verify lubrication condition and no obvious leakage/loose parts.
+5. Confirm coupling guard is fitted.
+6. Start P-101 using the approved local operating method.
+7. Confirm discharge develops and gradually establish required flow.
+8. Record suction pressure, discharge pressure, flow, bearing temperature, vibration and seal condition.
+9. During normal operation, investigate abnormal noise, cavitation symptoms, leakage, vibration or temperature rise.
+10. For normal shutdown, reduce load as applicable, stop pump and place valves/equipment in the approved standby condition.
+11. For suspected unsafe condition, stop/escalate according to the organization's actual emergency procedure; AI must not invent shutdown limits.
+4. Records
+* Start/stop time
+* Flow
+* Suction/discharge pressure
+* Vibration
+* Bearing temperature
+* Seal condition
+* Operator remarks
+5. AI Workbench Controls
+* Use local models and local knowledge sources only in sovereign mode.
+* Cite source document/revision/page or section when available.
+* State missing evidence explicitly.
+* Log selected model, agent steps, generated files and network status.
+* Human review is mandatory for operational, maintenance and safety decisions.

@@ -1,0 +1,35 @@
+P-101 OPERATING AND MAINTENANCE MANUAL
+Prototype reference manual for the Sovereign Industrial AI Workbench
+SYNTHETIC PROTOTYPE DOCUMENT - Replace all demo limits, procedures and approval authorities with organization-approved information before operational use.
+Document No.MAN-P101-01Revision00EquipmentP-101 Centrifugal PumpServiceCooling-water circulationClassificationPrototype / SyntheticStatusFor AI Workbench Demo
+1. Equipment Description
+P-101 is a synthetic horizontal centrifugal pump used to circulate cooling water through a demonstration process. The manual is designed as local knowledge-base content for document retrieval, troubleshooting and report generation.
+ParameterSynthetic ValueDesign flow100 m³/hOperating flow90 m³/hDesign head35 mOperating head32 mFluidWaterTemperature35 °CDensity994 kg/m³Efficiency75%Motor15 kWSuction pressure1.2 bar(g)Discharge pressure4.3 bar(g)Current vibration8.2 mm/s RMSCurrent bearing temp78 °CHistorical vibration4.1 mm/s RMSHistorical bearing temp62 °C2. Main Components
+* Pump casing and impeller
+* Shaft and bearings
+* Mechanical seal
+* Coupling and guard
+* Motor
+* Baseplate
+* Suction and discharge piping/interfaces
+3. Normal Monitoring
+* Flow and head/pressure indications
+* Vibration trend
+* Bearing temperature trend
+* Seal leakage
+* Noise/cavitation indications
+* Motor/load indication if available
+4. Common Troubleshooting Matrix
+* High vibration: investigate alignment, bearing condition, imbalance, looseness, cavitation/hydraulic condition.
+* High bearing temperature: investigate lubrication, bearing condition, alignment/load and measurement validity.
+* Seal leakage: inspect seal condition, alignment, operating condition and seal support arrangements where applicable.
+* Low flow/head: inspect suction condition, valve lineup, blockage, air ingress, rotation/speed and pump condition.
+5. Maintenance Principles
+* Use organization-approved lockout/isolation procedures before intrusive work.
+* Preserve as-found evidence before dismantling.
+* Record parts replaced and measurements.
+* After work, perform controlled restart and establish new baseline readings.
+6. AI Retrieval Rules
+* This manual provides context, not authority for real plant limits.
+* If a requested limit is not explicitly present in an approved local source, AI must report it as unavailable.
+* Historical notes are context and must not override a current approved SOP.
